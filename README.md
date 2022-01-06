@@ -16,11 +16,11 @@ You can see the result here :
 
 With text :
 
-[Image](./pad2.png)
+![Image](./pad2.png)
 
 With a larger box
 
-[Image](./pad3.png)
+![Image](./pad3.png)
 
 ## Link
 
